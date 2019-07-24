@@ -13,4 +13,4 @@ a lot of things internal and only expose methods through interfaces and we have 
 
 let's look at a very confusing diagram and let me explain how it should work 
 
-![https://github.com/mkcoder/mkcoder.github.io/blob/master/images/lifebook%20architecture-lifebook.core.es.png](confusing diagram)
+![datastore creation and usuage architecture diagram](https://raw.githubusercontent.com/mkcoder/mkcoder.github.io/master/images/lifebook%20architecture-lifebook.core.es.png)
