@@ -10,3 +10,5 @@ those patterns, look at different architectures and how it might help us get a b
 
 throughout the application design we need to keep in mind that this is a core feature so we have to keep 
 a lot of things internal and only expose methods through interfaces and we have been thinking about a new lifebook.core.domain project that will bind and expose interfaces only so let's refactor to that design
+
+let's look at a very confusing diagram and let me explain how it should work 
